@@ -12,7 +12,7 @@ I had writen [an article around this issue ](http://blog.ciznx.com/post/aspnetst
 Even these days, I can still see many people get to my blog to read that article, they search from Google or even translate my article to many other languages.
 So, I am deciding to rebuild this project to provide a laboratory for showing how to solve the problem entirely.
 
-I HAVE NOT tested for all platform and browsers (Sorry for this), because I donot get these devices or browsers. So if you have more platform and are glad to provide any test result data for this project, it will be warmly welcome. Just fork this project and send me a pull request.
+I HAVE NOT tested for all platforms and browsers (Sorry for this), because I donot have these devices or browsers. So if you have more platforms and are glad to provide any test result data for this project, it will be warmly welcome. Just fork this project and send me a pull request.
 
 You can use the source code freely.
 
