@@ -95,10 +95,10 @@
             </tr>
         </thead>
         <tbody>
-                <tr><td>Internet Explor</td><td>10</td><td>Windows 8</td><td>&nbsp;</td><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>                </tr>
-                <tr><td>Internet Explor</td><td>9</td><td>Windows 7</td><td>&nbsp;</td><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td></tr>
-                <tr><td>Internet Explor</td><td>8</td><td>Windows 7</td><td>X</td><td>√</td><td>√</td><td>√</td><td>√</td><td>X</td><td>√</td></tr>
-                <tr><td>Internet Explor</td><td>6</td><td>Windows XP</td><td>&nbsp;</td><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td></tr>
+                <tr><td>Internet Explor</td><td>10</td><td>Windows 8</td><td>X</td><td>X</td><td>√</td><td>√</td><td>√</td><td>X</td><td>√</td></tr>
+                <tr><td>Internet Explor</td><td>9</td><td>Windows 7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                <tr><td>Internet Explor</td><td>8</td><td>Windows 7</td><td>X</td><td>X</td><td>√</td><td>√</td><td>√</td><td>X</td><td>√</td></tr>
+                <tr><td>Internet Explor</td><td>6</td><td>Windows XP</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
                 <tr><td>Chrome</td><td>21</td><td>Windows 7</td><td>√</td><td>X</td><td>√</td><td>X</td><td>X</td><td>√</td><td>√</td></tr>
 				<tr><td>Chrome</td><td>8</td><td>Windows 7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
                 <tr><td>Firefox</td><td>12</td><td>Windows 7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -111,7 +111,9 @@
                 <tr><td>Chrome</td><td>4</td><td>iPad</td><td>&nbsp;</td><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td></tr>
         </tbody>
     </table>
-
+	<cite>Filenames longer than 24 chars are not supported by Internet Explorer 6.<br />
+	Filenames with space or symbols are not supported by Internet Explorer 6, but those languages with NON-ASCII letters are supported as later versions of Internet Explorer do.</cite>
+	<br />
     <script type="text/javascript">
         var results = document.getElementById("result").getElementsByTagName('TD');
         for (var i = 0, l = results.length; i < l; i++) {
